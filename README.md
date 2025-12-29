@@ -61,7 +61,7 @@ This repository includes:
 - Summary charts showing usage trends
 - Visual comparisons across months
 
-(See the `/charts` folder and Excel files for details.)
+📄 A PDF containing all pivot tables and summary charts is included in this repository.
 
 ---
 
