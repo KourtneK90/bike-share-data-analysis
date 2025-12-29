@@ -67,7 +67,7 @@ This repository includes:
 
 ## 📄 Final Deliverable
 - A written analysis report summarizing findings and insights
-- Supporting Excel files with cleaned data, pivot tables, and charts
+- A PDF report containing analysis findings and visual summaries is included in this repository.
 
 ---
 
